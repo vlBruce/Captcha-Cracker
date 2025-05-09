@@ -22,3 +22,14 @@ A Python-based deep learning pipeline that uses convolutional neural networks (C
 ```bash
 # Run the notebook in Jupyter
 jupyter notebook resnet50.ipynb
+
+```
+
+## License
+This project is licensed under the MIT License.
+
+## Author
+Cyrus Bruce
+
+## Acknowledgments
+Inspired by the Deep-CAPTCHA paper and other academic research in adversarial machine learning.
