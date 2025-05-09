@@ -33,3 +33,5 @@ Cyrus Bruce
 
 ## Acknowledgments
 Inspired by the Deep-CAPTCHA paper and other academic research in adversarial machine learning.
+
+CAPTCHA dataset used for model training and evaluation sourced from a public Kaggle dataset (used for academic purposes only).
